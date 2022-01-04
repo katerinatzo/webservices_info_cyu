@@ -1,4 +1,4 @@
-# Java demo using jax-ws APIs
+# SOAP web-service java demo using jax-ws APIs
 
 This demo illustrates how to develop a service use the "code first"
 approach using the JAX-WS APIs.
